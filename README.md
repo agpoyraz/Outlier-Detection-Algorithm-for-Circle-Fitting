@@ -28,4 +28,4 @@ This repository presents a robust outlier detection method designed for circle f
 
 If you use this method in your academic work, please cite:
 **Plain text:**
-Poyraz, A. G. (2025). *Outlier Detection Algorithm for Circle Fitting*. GitHub repository. https://github.com/agpoyraz/OUTLIER-DETECTION-ALGORITHM-FOR-CIRCLE-FITTING
+Poyraz, A. G. (2025). *Outlier Detection Algorithm for Circle Fitting*. GitHub repository. https://github.com/agpoyraz/Outlier-Detection-Algorithm-for-Circle-Fitting
